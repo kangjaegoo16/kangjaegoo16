@@ -1,16 +1,35 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<!--
-**kangjaegoo16/kangjaegoo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align = "center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3>Hi</h3><br/>
+Hello, I'm JgKang (Ausher).<br/>
+My goal is to give good influence to society.<br/>
+Have a good day.
+
+
+<br/><br/>
+
+
+
+  
+
+
+<br/><br/>
+ 
+
+ 
+<br/>
+
+
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+
+
+
